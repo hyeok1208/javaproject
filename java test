@@ -1,1 +1,6 @@
-test
+def sum (num1,num2):
+num1=30
+num2=20
+return num1 + num2
+
+print(f"{num1}+{num2}={sum(num1,num2)}")
